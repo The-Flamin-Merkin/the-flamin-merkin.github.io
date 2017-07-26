@@ -2,23 +2,27 @@
 #
 
 # Site settings
-title: Spectral
+title: The Flamin' Merkin
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  Tequila. Agave. Lime. Dust.
+
+  9 & E,
+  Black Rock City, NV, USA
+
+  Happy Hour 1200-1800
+  
+owner: The Flamin' Merkin # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: tequila@the-flamin-merkin.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://the-flamin-merkin.github.io/" # the base hostname & protocol for your site
+url: "http://localhost:4000/" # the base hostname & protocol for your site
 social:
   # twitter: https://twitter.com/<username>
   # github: https://github.com/<username>
   # linkedin-square: https://linkedin.com/in/<username>
-  # facebook-official: https://facebook.com/<username>
+  facebook-official: https://www.facebook.com/flaminmerkin
   # google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: "tequila@the-flamin-merkin.org"
   #flickr:
   #instagram:
   #youtube-square:
