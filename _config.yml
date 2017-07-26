@@ -11,7 +11,7 @@ description: |
 
   Happy Hour 1200-1800
   
-owner: The Flamin' Merkin # or company name
+owner: "The Flamin' Merkin" # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: tequila@the-flamin-merkin.org
 baseurl: "" # the subpath of your site, e.g. /blog
