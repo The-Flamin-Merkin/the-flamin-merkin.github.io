@@ -1,3 +1,6 @@
+# IDE files
+.idea
+
 # Jekyll ignores
 .sass-cache/
 _site
